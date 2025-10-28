@@ -15,7 +15,7 @@
 - 🌍 Based in Mashhad, Iran  
 - 💡 Passionate about building immersive digital experiences  
 - 🎯 Focused on clean UI/UX and scalable backend  
-- 📫 Email: sinaeinmahabadi@gmail.me
+- 📫 Email: sinaeinmahabadi@gmail.com
 
 ---
 

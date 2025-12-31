@@ -41,19 +41,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinaeinmahabadi&show_icons=true&theme=dark" alt="Sina's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaeinmahabadi&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:sinaeinmahabadi@pm.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/sinaeinmahabadi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sinaeinmahabadi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SinaEinMahabadi2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
